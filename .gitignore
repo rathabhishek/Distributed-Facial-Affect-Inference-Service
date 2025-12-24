@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints
+
+# Data and model artifacts
+/data/
+/models/
+speech-emotion-recognition-ravdess-data/
+
+# Secrets and environment
+.env
+*.pem
+*.key
+credentials.json
+
+# OS files
+Thumbs.db
+Desktop.ini
